@@ -6,7 +6,7 @@
 
   <groupId>net.pincette</groupId>
   <artifactId>pincette-zephyr-squad-cli</artifactId>
-  <version>1.0</version>
+  <version>1.0.1</version>
   <name>pincette-zephyr-squad-cli</name>
   <description>Command line tool for Pincette Zephyr Squad</description>
   <url>https://github.com/wdonne/pincette-zephyr-squad-cli</url>
@@ -51,7 +51,7 @@
     <dependency>
       <groupId>net.pincette</groupId>
       <artifactId>pincette-zephyr-squad</artifactId>
-      <version>1.0</version>
+      <version>1.0.1</version>
     </dependency>
     <dependency>
       <groupId>org.glassfish</groupId>
